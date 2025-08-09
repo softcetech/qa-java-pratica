@@ -1,6 +1,6 @@
 # 🚦 Projeto de Lógica de Programação - JAVA
 
-Este projeto foi desenvolvido para fins educativos, com o objetivo de reforçar conceitos de **lógica de programação** e **orientação a objetos em Java**. Ele simula o funcionamento de um **semáforo** e o comportamento de pedestres em uma faixa, considerando a distância informada pelo usuário.
+Este projeto foi desenvolvido para fins educativos, com o objetivo de reforçar conceitos de **lógica de programação** e **orientação a objetos em Java**. Ele possui varias classes com muitos itens para praticar.
 
 ---
 
