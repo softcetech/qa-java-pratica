@@ -36,6 +36,7 @@ O sistema conta com as seguintes classes e responsabilidades:
 
 ## 📂 Estrutura do Projeto
 
+```
 projeto-logica-basica-java/
 ├── src/
 │ ├── Main.java
@@ -48,7 +49,7 @@ projeto-logica-basica-java/
 │ ├── GeradorSenha.java
 │ └── AgendaSimples.java
 └── README.md
-
+```
 
 ---
 
@@ -58,15 +59,15 @@ projeto-logica-basica-java/
 ```bash
 git clone https://github.com/seuusuario/projeto-logica-basica-java.git
 cd projeto-logica-basica-java
-
+```
 ### 2. Compilar os arquivos
-
+```
 javac src/*.java
-
+```
 ### 3. Compilar os arquivos
-
+```
 java -cp src Main
-
+```
 
 ## 🧪 Funcionalidades Implementadas
 ### 🚦 Controle de Semáforo com Pedestre
