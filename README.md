@@ -1,4 +1,4 @@
-# 🚦 Projeto de Lógica Básica - Simulação de Semáforo e Faixa de Pedestre
+# 🚦 Projeto de Lógica de Programação - JAVA
 
 Este projeto foi desenvolvido para fins educativos, com o objetivo de reforçar conceitos de **lógica de programação** e **orientação a objetos em Java**. Ele simula o funcionamento de um **semáforo** e o comportamento de pedestres em uma faixa, considerando a distância informada pelo usuário.
 
