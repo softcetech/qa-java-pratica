@@ -96,12 +96,12 @@ Cria senhas seguras com letras, números e símbolos.
 Cadastro e listagem de contatos (nome e telefone).
 
 ## 📊 Objetivos de Aprendizado
-Estruturas condicionais (if, else, switch)
-Estruturas de repetição (for, while, do-while)
-Funções/métodos
-Manipulação de strings
-Arrays e listas
-Entrada e saída de dados via Scanner
+ - Estruturas condicionais (if, else, switch)
+ - Estruturas de repetição (for, while, do-while)
+ - Funções/métodos
+ - Manipulação de strings
+ - Arrays e listas
+ - Entrada e saída de dados via Scanner
 
 
 === PROJETO LÓGICA BÁSICA ===
