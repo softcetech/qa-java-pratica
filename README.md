@@ -4,27 +4,6 @@ Este projeto foi desenvolvido para fins educativos, com o objetivo de reforçar 
 
 ---
 
-## 📚 Funcionalidades
-
-O sistema conta com as seguintes classes e responsabilidades:
-
-- **Main**  
-  Classe principal que executa o programa, interagindo com o usuário.
-
-- **Semaforo**  
-  Responsável por controlar o estado da luz (vermelho, amarelo e verde).
-
-- **ControlePedestre**  
-  Define se o pedestre pode atravessar com base na distância e no estado do semáforo.
-
-- **ControleVeiculo**  
-  Define se o veículo deve parar ou prosseguir.
-
-- **VerificacaoSeguranca**  
-  Faz a validação final, garantindo que a travessia seja segura.
-
----
-
 ## 🛠 Tecnologias Utilizadas
 
 - **Java 17+**
@@ -103,22 +82,9 @@ Cadastro e listagem de contatos (nome e telefone).
  - Arrays e listas
  - Entrada e saída de dados via Scanner
 
-
-=== PROJETO LÓGICA BÁSICA ===
-1 - Controle de Semáforo com Pedestre
-2 - Calculadora Simples
-3 - Verificador de Números Primos
-4 - Tabuada Automática
-5 - Conversor de Temperaturas
-6 - Simulador de Caixa Eletrônico
-7 - Gerador de Senhas Aleatórias
-8 - Agenda Simples
-0 - Sair
-Escolha uma opção:
-
 ## ✍️ Autor(a)
 
 **Claudiane Oliveira**  
 🔗 [LinkedIn](https://www.linkedin.com/in/claudianeoliveiraqa/)
 
-Projeto desenvolvido para fins de estudo e demonstração de automação de testes com Cypress + Cucumber + Allure.
+Projeto desenvolvido para fins de estudos
